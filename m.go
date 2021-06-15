@@ -1,5 +1,5 @@
 package module
 
 func Some() string {
-	return "1"
+	return "2"
 }
